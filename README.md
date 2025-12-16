@@ -80,8 +80,15 @@ Predicted winPlacePerc (Percentage): 86.38%
 - Jupyter Notebook  
 
 ---
+### 📬 Contact Me
+
+If you have any questions, suggestions, or feedback regarding this project, feel free to reach out through the channels below:
 
 ## 👤 Author
 
 **Athul**  
 Machine Learning | Data Science | Data Analytics
+
+**📧 Email:** athuldevkoroth@gmail.com  
+**🔗 GitHub:** https://github.com/athuldevkoroth  
+**💼 LinkedIn:** https://www.linkedin.com/in/athuldev-k  
